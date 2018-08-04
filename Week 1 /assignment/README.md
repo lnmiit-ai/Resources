@@ -14,7 +14,6 @@
 
 - 10 points for completing the 1st 3 instructions each (Total points = 30).
 - The bonus task weighs *50 points*.
-- Independent self projects will be given points based on the discussion in the group.
 
 # How to Submit Your Solution
 
