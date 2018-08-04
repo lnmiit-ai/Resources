@@ -7,6 +7,7 @@
 6. Create a [LinkedIn][3] , [Github][4] , [Medium][5] profile.
 7. Complete the Python tutorial attached.
 8. Complete the Assignment in the `assignment` folder and submit the solution with the code.
+9. For Probability and Statistics as well as Linear Algebra, start from [Maths of Machine Learning][10]
 
 # Installation:
 Do the prerequistes yourself like installing `Ubuntu` and `pip`.
@@ -30,3 +31,4 @@ sudo pip install numpy (repeat the same for the rest)
 [7]: http://docs.python-guide.org/en/latest/starting/install3/linux/
 [8]: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04
 [9]: http://students.brown.edu/seeing-theory/index.html#firstPage
+[10]: https://mml-book.github.io/
