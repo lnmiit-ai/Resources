@@ -7,7 +7,7 @@ From this week onwards, we begin with our course work. So, we start off with two
 # To-Do before next session:
 
 1. Complete Week 1 through 5 from the [Andrew NG][1]. Try making notes for every video you watch. It'll be helpful down the lane.
-2. Complete videos till week 2 of Siraj Raval's [Math of Intelligence][2] (total 4 videos).3. Complete the Assignment given in the `assignment` folder.
+2. Complete videos till week 2 of Siraj Raval's [Math of Intelligence][2] (total 4 videos).
 3. Study [this][3] paper. Be prepared with a short summary or presentation of the paper for the next session. We will pe awarding 10 points for the Summary submission. Also, in a seperate session, we'll be randomly picking up people and asking them to present. This is going to contribute towards your writing, speaking and presentation skills.
 
 # Optional for Bonus Points:
