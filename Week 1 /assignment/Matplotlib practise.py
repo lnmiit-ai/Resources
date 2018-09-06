@@ -11,19 +11,19 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 get_ipython().run_line_magic('matplotlib', 'inline')
-df = pd.read_excel('data.xlsx',index = [])
+df = pd.read_excel('data.xlsx')
 
-df
+#df
 
-df.head()
+#df.head()
 
-df['Label'][0]
+#df['Label'][0]
 
 df1 = df[df['Label']==1]
 
 df2 = df[df['Label']==2]
 
-fig,axes = plt.subplots(nrows = 9,ncols = 5,figsize = (40,40))
+fig,axes = plt.subplots(nrows = 9,ncols = 5,figsize = (40,40))  #45 plots in total
 fig.subplots_adjust(hspace = 0.5) # to adjust the height between two rows of plots 
 
 axes = axes.ravel()    #to change the axes array into a flat 1-D array
